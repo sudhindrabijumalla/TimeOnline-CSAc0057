@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeonline", "WebApplication12\Timeonline.csproj", "{46DB68C8-6754-4012-879C-B65B59CF8C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DB68C8-6754-4012-879C-B65B59CF8C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DB68C8-6754-4012-879C-B65B59CF8C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DB68C8-6754-4012-879C-B65B59CF8C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DB68C8-6754-4012-879C-B65B59CF8C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A28D93-7DA2-4C88-9F72-2797D4681E0B}
+	EndGlobalSection
+EndGlobal
